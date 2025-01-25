@@ -36,6 +36,14 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "androidNavigationBar": {
+      "backgroundColor": "#1A1A2E"
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#16213E",
+      "barStyle": "light-content"
+    },
+    "assets": ["./assets/sounds/"]
   }
 }
